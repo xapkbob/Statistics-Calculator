@@ -47,6 +47,10 @@ As I added features, I also worked on organizing the program so different calcul
 
 The Statistics Calculator is a personal project that I continue to update as I learn and add additional statistical functions.
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 ## Author
 
 Will Morgan
